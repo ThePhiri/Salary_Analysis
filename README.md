@@ -1,6 +1,6 @@
-#**Umuzi assignment: Predicting salaries differences**
+**Umuzi assignment: Predicting salaries differences**
 
-##In the next series of challenges, we will predict employee salaries from different employee characteristics (or features). We ask employees working in four different fields to state their salary and some background information. 
+In the next series of challenges, we will predict employee salaries from different employee characteristics (or features). We ask employees working in four different fields to state their salary and some background information.
     
     a) How many responders are there? Are there any missing values in any of the variables?
         514 responders with 1 missing entry in the salary column
