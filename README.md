@@ -1,16 +1,11 @@
 
-Umuzi assignment: Predicting salaries differences
-
-Start: Monday 11 June
-Due: Tuesday 12 June 12pm
+<strong>Umuzi assignment: Predicting salaries differences</strong>
 
 In the next series of challenges, we will predict employee salaries from different employee characteristics (or features). We ask employees working in four different fields to state their salary and some background information. 
 
-Import the data salary.csv to a Jupyter Notebook and answer the following questions:
-
 Question 1
     a) How many responders are there? Are there any missing values in any of the variables?
-        514 responders with 1 missing entry in the salary column
+        <i>514 responders with 1 missing entry in the salary column</i>
     b) What is the lowest salary and highest salary in the group?
         Lowest salary: 29000
         Highest salary: 96156
